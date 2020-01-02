@@ -1,4 +1,4 @@
-# Lenguajes a usar:
+# Tecnologias a usar:
     - Java
     - JS
     - CSS
